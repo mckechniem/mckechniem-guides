@@ -1661,6 +1661,8 @@ textarea.form-control {
   padding: 70px 0;
   position: relative;
   background-color: #FFFFFF;
+  margin: auto;
+  padding: auto;
 }
 
 .section-with-space {
